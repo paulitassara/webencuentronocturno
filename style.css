@@ -13,7 +13,7 @@
 }
 
 body {
-  background-image: url("imagenes/fondo_1.png"); 
+  background-image: url("/imagenes/fondo_1.png"); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -124,6 +124,7 @@ footer {
   opacity: 0.8;
   font-size: 0.9rem;
 }
+
 
 
 
